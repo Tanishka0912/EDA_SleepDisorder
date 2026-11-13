@@ -1,4 +1,4 @@
-# Sleep Disorder Analysis – Exploratory Data Analysis (EDA)
+# Sleep Disorder Analysis – Exploratory Data Analysis
 
  Project Overview  
 This project focuses on performing Exploratory Data Analysis (EDA) on a Sleep Health and Lifestyle dataset to understand the relationship between lifestyle factors, health indicators, and sleep patterns.
